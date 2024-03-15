@@ -11,10 +11,11 @@
     "groups": [
         {  
             "name":  "OG",  
-            "merkle_root":  "87c31083fc6090bc2fbc14399a8da85487efb963490ba732dfec372676c2f8c9",  
+            "merkle_root":  "d3e2fc4f27e7094906fe029784f2df97cbf882e39fc7c2937ebdc11dcb8c76be",  
             "max_tokens":  1,  
             "unit_price":  0,
             "allowlist": [
+                "sei1ngu46qh80urnw6vh6z4wpaadadx6mhqnwudhjm",
                 "sei1j9r47hlns2puda5mya2d3vfctv3tvwh2a6eucj",
                 "sei174a3s0jxncgms5t07wxzpxpdqaxqwwn5x36kyh",
                 "sei1lykqeyca4ya3hjhzr6zn4tsc07fdl7r9cwkrr3",
@@ -37,7 +38,8 @@
                 "sei14zyxrhcmvk6z777w7p4q2zjyxr0fhs4kcnew7w",
                 "sei1m69l6hvmeyma0qejpl5la3g4pcu8hxnf40r0lu",
                 "sei1mz96cvup3usde5r9fnhswwx4m9294t8cel7kks",
-                "sei14rlgxe0e826h46y3yaqf0e50wh9mmdaah96qp2"
+                "sei14rlgxe0e826h46y3yaqf0e50wh9mmdaah96qp2",
+                "sei1hlltxkkl8y99877my0x93hhufkczyaxau7p2ta"
             ],
             "creators": [
                 {
