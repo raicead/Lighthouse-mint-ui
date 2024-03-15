@@ -11,11 +11,12 @@
     "groups": [
         {  
             "name":  "OG",  
-            "merkle_root":  "02c5f6a31a974f9471e9830e553f4d12d285af74d00f60176a1954d8a6be4bee",  
+            "merkle_root":  "d876f9e5cadf10bee9b9cf417c8bed66cd49c538f7745c35d1966c3f3df5739c",  
             "max_tokens":  1,  
             "unit_price":  0,
             "allowlist": [
                 "sei1ngu46qh80urnw6vh6z4wpaadadx6mhqnwudhjm",
+                "sei1hlltxkkl8y99877my0x93hhufkczyaxau7p2ta",
                 "sei1j9r47hlns2puda5mya2d3vfctv3tvwh2a6eucj",
                 "sei174a3s0jxncgms5t07wxzpxpdqaxqwwn5x36kyh",
                 "sei1lykqeyca4ya3hjhzr6zn4tsc07fdl7r9cwkrr3",
@@ -61,6 +62,8 @@
                 "sei1m69l6hvmeyma0qejpl5la3g4pcu8hxnf40r0lu",
                 "sei1u56ptc8qnr0mxr04a7nf75arvn3u9ytcwqexel",
                 "sei1mz96cvup3usde5r9fnhswwx4m9294t8cel7kks",
+                "sei1kwvc4k9fuglxhzkuke47zepy7v37ca5yf7ydn7",
+                "sei1k9g503kufjjx4dxddpu2dslnya7mwdjlzqrzga",
                 "sei14rlgxe0e826h46y3yaqf0e50wh9mmdaah96qp2"
             ],
             "creators": [
@@ -74,7 +77,7 @@
         },  
         {  
             "name":  "whitelist",  
-            "merkle_root":  "479f98e68b804bfdeac3ab28f3c00e30a4943010dd3c2f6fd86684a5f4ce3630",  
+            "merkle_root":  "f4b159836e68536498b267d9ecf16e56e73b4dbfcd27be9354e7ec5b84a75b6f",  
             "max_tokens":  1,  
             "unit_price":  0,
             "allowlist": [
@@ -186,7 +189,15 @@
                 "sei1a9tuxha6m42m77hnf9fsdjkgwg48tfvctclggq",
                 "sei14qh2u65zajpegharnck6khpdurm0mfzzruj3tm",
                 "sei1skslhwlgde06eysn08m5zd27ptglggpvt3g6cu",
-                "sei10ha2efezz2kc7w5hqgzpvtu9wk82ynm7k8a8ej"
+                "sei10ha2efezz2kc7w5hqgzpvtu9wk82ynm7k8a8ej",
+                "sei1laydpxn8gynm76sv6su7g7y93fplaz86gq5n6s",
+                "sei10u3kkpd2ugalqmdqahhnsyyppj4naqk6l9x4fl",
+                "sei19m3kte6gmxtmghc3gzl4zxrm9q9jnw3xcy6lqa",
+                "sei1n4wp6qvqw9qjcmkkh5f628ae0pr8qd2ek7spfu",
+                "sei1mcywmwx7ey4jyatvp8pk22cxq3zgcaplp0a308",
+                "sei18ncpxdje5x4pwsczu47rlg872a8umkuj2k0hkc",
+                "sei1d7a33hauwp3lkmsts2rrvt77u4pts4v5twavvh",
+                "sei195z6lwspun320fp9k36sd5eeatz7zf4r7sls2z"
             ],
             "creators": [
                 {
