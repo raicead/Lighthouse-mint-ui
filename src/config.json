@@ -11,7 +11,7 @@
     "groups": [
         {  
             "name":  "OG",  
-            "merkle_root":  "d876f9e5cadf10bee9b9cf417c8bed66cd49c538f7745c35d1966c3f3df5739c",  
+            "merkle_root":  "bf62ff3ad85d0d99955a14fbe0d081ff9bb93b572443fc85e7c9cba591a51681",  
             "max_tokens":  1,  
             "unit_price":  0,
             "allowlist": [
@@ -64,6 +64,7 @@
                 "sei1mz96cvup3usde5r9fnhswwx4m9294t8cel7kks",
                 "sei1kwvc4k9fuglxhzkuke47zepy7v37ca5yf7ydn7",
                 "sei1k9g503kufjjx4dxddpu2dslnya7mwdjlzqrzga",
+                "sei10u3kkpd2ugalqmdqahhnsyyppj4naqk6l9x4fl",
                 "sei14rlgxe0e826h46y3yaqf0e50wh9mmdaah96qp2"
             ],
             "creators": [
@@ -77,7 +78,7 @@
         },  
         {  
             "name":  "whitelist",  
-            "merkle_root":  "5287fca3aa9f936ff546768dfd0ea8f015887fda89da07046d9bf56e217b10c7",  
+            "merkle_root":  "ff8230671f1899ea97c5fb8b754ae51c50bfe19a4df62bfea1da77944328817e",  
             "max_tokens":  1,  
             "unit_price":  0,
             "allowlist": [
@@ -191,7 +192,6 @@
                 "sei1skslhwlgde06eysn08m5zd27ptglggpvt3g6cu",
                 "sei10ha2efezz2kc7w5hqgzpvtu9wk82ynm7k8a8ej",
                 "sei1laydpxn8gynm76sv6su7g7y93fplaz86gq5n6s",
-                "sei10u3kkpd2ugalqmdqahhnsyyppj4naqk6l9x4fl",
                 "sei19m3kte6gmxtmghc3gzl4zxrm9q9jnw3xcy6lqa",
                 "sei1n4wp6qvqw9qjcmkkh5f628ae0pr8qd2ek7spfu",
                 "sei1mcywmwx7ey4jyatvp8pk22cxq3zgcaplp0a308",
