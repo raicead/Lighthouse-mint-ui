@@ -77,7 +77,7 @@
         },  
         {  
             "name":  "whitelist",  
-            "merkle_root":  "f4b159836e68536498b267d9ecf16e56e73b4dbfcd27be9354e7ec5b84a75b6f",  
+            "merkle_root":  "5287fca3aa9f936ff546768dfd0ea8f015887fda89da07046d9bf56e217b10c7",  
             "max_tokens":  1,  
             "unit_price":  0,
             "allowlist": [
@@ -196,6 +196,7 @@
                 "sei1n4wp6qvqw9qjcmkkh5f628ae0pr8qd2ek7spfu",
                 "sei1mcywmwx7ey4jyatvp8pk22cxq3zgcaplp0a308",
                 "sei18ncpxdje5x4pwsczu47rlg872a8umkuj2k0hkc",
+                "sei1aa766vc0wugg9pxlf32cym7c2fqf2vuuztqjxl",
                 "sei1d7a33hauwp3lkmsts2rrvt77u4pts4v5twavvh",
                 "sei195z6lwspun320fp9k36sd5eeatz7zf4r7sls2z"
             ],
