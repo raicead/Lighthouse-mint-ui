@@ -1,23 +1,63 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
-    "website":"",
-    "twitter":"",
-    "discord":"",
-    "rpc":"",
-    "network":"atlantic-2", 
-    "collection_address":"", 
+    "name":"Trek Access Chit",
+    "description":"A personal access chit offered to the first 100 users of TREK.",
+    "rpc": "https://rpc.sei-apis.com",
+    "network":"pacific-1", 
+    "website": "https://trek.vision",
+    "twitter": "https://twitter.com/web3trek",
+    "discord": "https://t.co/5zV2wvm0Ez",
+    "collection_address":"sei14cvgwjct3rcds3xzvem6eweaehe0vd3trjjpaz6zxzgse7yx890q8w8jam", 
     "nft_name_type": "default",
-    "groups":[
+    "groups": [
+        {  
+            "name":  "OG",  
+            "merkle_root":  "8887ec46831c65524464dd0802156a402d5bd89a1641459253709a2db6f106fe",  
+            "max_tokens":  1,  
+            "unit_price":  0,
+            "allowlist": [
+              "sei174a3s0jxncgms5t07wxzpxpdqaxqwwn5x36kyh",
+              "sei165nc2n3lfzz87yh5qsmwnanu5gm382wzk8ne78"
+            ],
+            "creators": [
+                {
+                    "address": "sei1j9r47hlns2puda5mya2d3vfctv3tvwh2a6eucj",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-15T15:00:00Z",
+            "end_time":  "2024-03-15T15:59:59Z"  
+        },  
+        {  
+            "name":  "whitelist",  
+            "merkle_root":  "8887ec46831c65524464dd0802156a402d5bd89a1641459253709a2db6f106fe",  
+            "max_tokens":  1,  
+            "unit_price":  0,
+            "allowlist": [
+              "sei174a3s0jxncgms5t07wxzpxpdqaxqwwn5x36kyh",
+              "sei165nc2n3lfzz87yh5qsmwnanu5gm382wzk8ne78"
+            ],
+            "creators": [
+                {
+                    "address": "sei1j9r47hlns2puda5mya2d3vfctv3tvwh2a6eucj",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-15T16:00:00Z",
+            "end_time":  "2024-03-15T16:59:59Z"  
+        },  
         {
-            "name":"whitelist",
-            "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
-            ] 
-        },
-        {
-            "name":"public"
+            "name": "public",
+            "merkle_root": null,
+            "max_tokens": 1,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei1j9r47hlns2puda5mya2d3vfctv3tvwh2a6eucj",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-15T17:00:00Z",
+            "end_time": "2024-03-15T18:00:00Z"
         }
     ]
 }
